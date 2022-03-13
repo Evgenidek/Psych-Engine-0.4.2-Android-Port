@@ -60,9 +60,9 @@ class ChartingState extends MusicBeatState
 		'Instakill Note', 
 		'Poison Note', 
 		'DODGE_NOTES', 
-		'bullet_notes', 
 		'GF Sing',
-		'No Animation'
+		'No Animation', 
+		'heal' 
 	];
 	private var noteTypeIntMap:Map<Int, String> = new Map<Int, String>();
 	private var noteTypeMap:Map<String, Null<Int>> = new Map<String, Null<Int>>();
