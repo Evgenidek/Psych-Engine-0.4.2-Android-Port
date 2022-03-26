@@ -60,7 +60,8 @@ class ChartingState extends MusicBeatState
 		'Instakill Note', 
 		'Poison Note', 
 		'DODGE_NOTES', 
-		'GF Sing',
+		'GF Sing', 
+		'Warning Note', 
 		'No Animation', 
 		'heal' 
 	];
