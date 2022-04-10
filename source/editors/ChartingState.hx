@@ -62,6 +62,8 @@ class ChartingState extends MusicBeatState
 		'DODGE_NOTES', 
 		'GF Sing', 
 		'Warning Note', 
+		'Glitch', 
+		'Warning Note Gun', 
 		'No Animation', 
 		'heal' 
 	];
